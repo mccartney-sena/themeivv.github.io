@@ -1,8 +1,8 @@
 /*
 Theme Name: Igreja Verbo da Vida - Santa Maria da Boa Vista -
-Theme URI: https://github.com/mccartney-fernandes
+Theme URI: https://mccartney-sena.github.io/themeivv.github.io/
 Author: Mccartney Fernandes
-Author URI: https://github.com/mccartney-fernandes
+Author URI: https://github.com/mccartney-sena
 Description: Tema criado para utilização da Igreja Verbo da Vida de Santa Maria da Boa Vista PE
 Version: 1.0
 Tags: two-columns, left-sidebar, custom-header, custom-menu, custom-logo, blog
@@ -79,13 +79,13 @@ body {
 }
 
 .dropdown-menu-principal{
-  background: #7979796e;
+  background: #232323f5;
 }
 .dropdown-menu-principal a{
   color:#fff;
 }
 .dropdown-menu-principal a:focus{
-  background: #7979796e;
+  background: #232323f5;
 }
 
 .main-container{
@@ -110,7 +110,7 @@ body {
  * Footer
  */
 .mastfoot {
-  background: #23232354;
+  background: #232323f5;
   margin-bottom: 5px;
   padding: 10px;
   border-radius: 20px;
@@ -129,7 +129,7 @@ body {
 
 /*Lideres*/
 .lideres-container{
-  background: #fffefe7d;
+  background: #232323f5;
   padding: 30px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -146,8 +146,36 @@ body {
   padding: 10px;
 }
 
-.card-departamento{
-  background: #7979796e;
+.card-departamento-background{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #232323f5;
   padding: 10px;
+  margin-bottom: 5px;
+}
+.card-departamento{
+  margin: 5px;
+  color: #000; 
+}
+
+.card-noticias-background{
+  background: #232323f5;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.card-noticias{
+  color: #000;
+}
+.card-mensagem-background{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #232323f5;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.card-mensagem{
+  color: #000;
   margin-bottom: 10px;
 }
