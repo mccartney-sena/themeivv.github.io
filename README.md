@@ -1,21 +1,21 @@
- Tema WordPress Igreja Verbo da Vida Santa Maria da Boa Vista - PE  
+#Tema WordPress Igreja Verbo da Vida Santa Maria da Boa Vista - PE  
  Instale o tema e siga os passos relacionados a baixo
 
 1º Crie as Paginas
 HOME(slug 'home'), NOSSOS LIDERES(slug 'nossos-lideres'), CONTATO(slug 'contato), FOTOS(slug 'fotos'), VIDEOS(slug 'videos'), AUDIOS(slug 'audios) estas paginas devem ser criadas como modelo de pagina padrão, as demais como template uso geral. A pagina  HOME deve ser ativa como pagina inicial do tema, var em Cofiguração - Leitura.
   
-<h4>2º Categorias
-<p>Devem ser definidas 03 (três) categorias basicas necessarias</p>  
+2º Categorias
+Devem ser definidas 03 (três) categorias basicas necessarias
 AUDIOS, FOTOS, VIDEOS
   
 Plugins
-<p>por padrão o tema requer todos plugins necessarios para o seu bom funcionamento </p>
+por padrão o tema requer todos plugins necessarios para o seu bom funcionamento
   
 Widget
 Botão Pagina Home
 Utilizar o Widget HTML personalizado e inserir no conteudo.
 
-<a class="btn btn-block btn-outline-light" href="link-da-pagina-desejada">NO QUE CREMOS</a>
+ class="btn btn-block btn-outline-light" href="link-da-pagina-desejada" NO QUE CREMOS
 
 Não esqueça de modificar o atributo href para o link desejado e o texo NO QUE CREMOS 
 Estilos de botões Boostrap 4.3 de preferência utilizar a classe .btn-block
