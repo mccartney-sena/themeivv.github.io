@@ -1,35 +1,50 @@
-<h1>Tema WordPress Igreja Verbo da Vida Santa Maria da Boa Vista - PE</h1>
+Tema WordPress Igreja Verbo da Vida Santa Maria da Boa Vista - PE
 
-<h2 style="text-align: center;">Widget</h2>
+Criação de Paginas
+As paginas: ``` HOME(slug 'home'), NOSSOS LIDERES(slug 'nossos-lideres'), CONTATO(slug 'contato), FOTOS(slug 'fotos'), VIDEOS(slug 'videos'), AUDIOS(slug 'audios)``` Devem ser criadas e esta com o modelo de pagina padrão, as demais com o template uso geral, a pagina HOME deve ser ativa como pagina inicial do tema em Cofiguração - Leitura.
 
-<h4 style="text-align: center;">Titulo do texto na pagina home</h4>
-<p>Utilizar o Widget Texto e digitar o titulo e o texto</p>
-<hr>
+Categorias basicas necessarias
+AUDIOS, FOTOS, VIDEOS,
 
-<h4 style="text-align: center;">Botão Pagina Home</h4>
-<p>
+Plugins Necessarios
+The Events Calendar
+Eventos - Configurações - Exibir
+CSS padrão para os templates "Estilos Completos"
+Template de eventos "Template para Eventos"
+FooGallery
+FooBox Image Lightbox
+Social Icons Widget
+Widget
+Botão Pagina Home
 Utilizar o Widget HTML personalizado e inserir no conteudo.
 
-```<a class="btn btn-block btn-outline-light" href="link-da-pagina-desejada">NO QUE CREMOS</a>```
+<a class="btn btn-block btn-outline-light" href="link-da-pagina-desejada">NO QUE CREMOS</a>
 
+Não esqueça de modificar o atributo href para o link desejado e o texo NO QUE CREMOS 
+Estilos de botões Boostrap 4.3 de preferência utilizar a classe .btn-block
 
-Não esqueça de modifica o atributo ``` href ``` para o link desejado e o texo ```NO QUE CREMOS``` <br> 
-Estilo de botões <a href="https://getbootstrap.com/docs/4.3/components/buttons/">Boostrap 4.3</a> de preferência utilizar a classe <small>.btn-block</small>
-	
-</p>
-<hr>
+Imagem da Home
+Utilizar o Widget Imagen, as imagens devem ter dimensões de 256x411 ou 312x501
 
-<h4 style="text-align: center;">Imagem da Home</h4>
-<p>Utilizar imagens com dimensões de 312x501</p>
-<hr>
-<h4 style="text-align: center;">Image Logo</h4>
-<p>
-Utilizar o Widget HTML personalizado e inserir no conteudo.
+Lider 1 a 8
+Utilizar o Widget Imagem e Texto
 
-```
-<a href="link-da-pagina-desejada"><img src="link-da-imagem-desejada" width="150" height="100" alt=""></a>
-```
+Dimensões da imagem 150x150
 
-Não esqueça de modifica o atributo ```href``` da ```TAG <a>``` para o link desejado e o atributo ``` src ``` da ``` TAG <img> ``` para o link da imagem da Logo <br>
+Posts
+Existem seis (05) formatos de posts, cada um deles tem sua propria característica
 
-<hr> 
+Padrão
+Utilizado para Posts de Noticias
+
+Imagem
+Utilizado para criar galerias de imagens. O formato Galeria no conteúdo coloca-se um shortcode do plugin FooGallery,
+
+Áudio
+Utilizado para posts de áudio. Incorpora-se o link do SoundCloud no conteúdo do post
+
+Vídeo
+Utilizado para posts de vídeos. Clicando em Adicionar mídia - Inserir a partir do URL - copia-se o link do video do YouTube - Inserir no post
+
+Citação
+Utilizado para posts curtos sem imagens, Ex: Maná, Devocional ..
