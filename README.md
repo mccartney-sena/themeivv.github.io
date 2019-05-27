@@ -1,17 +1,16 @@
- <h2 align="center">Tema WordPress Igreja Verbo da Vida Santa Maria da Boa Vista - PE</h2>
- 
-<p  align="center">Instale o tema e siga os passos relacionados a baixo</p>
+ Tema WordPress Igreja Verbo da Vida Santa Maria da Boa Vista - PE  
+ Instale o tema e siga os passos relacionados a baixo
 
-<h4>1º Crie as Paginas</h4>
-HOME ```(slug 'home')```, NOSSOS LIDERES ```(slug 'nossos-lideres')```, CONTATO ```(slug 'contato)```, FOTOS ```(slug 'fotos')```, VIDEOS ```(slug 'videos')```, AUDIOS ```(slug 'audios)``` <p>estas paginas devem ser criadas como modelo de pagina padrão, as demais como template uso geral. A pagina  HOME deve ser ativa como pagina inicial do tema, var em Cofiguração - Leitura.</p>
-<hr>
-<h4>2º Categorias</h4>
-<p>Devem ser definidas 03 (três) categorias basicas necessarias</p>
-```AUDIOS, FOTOS, VIDEOS```
-<hr>
-<h4>Plugins</h4>
+1º Crie as Paginas
+HOME(slug 'home'), NOSSOS LIDERES(slug 'nossos-lideres'), CONTATO(slug 'contato), FOTOS(slug 'fotos'), VIDEOS(slug 'videos'), AUDIOS(slug 'audios) estas paginas devem ser criadas como modelo de pagina padrão, as demais como template uso geral. A pagina  HOME deve ser ativa como pagina inicial do tema, var em Cofiguração - Leitura.
+  
+<h4>2º Categorias
+<p>Devem ser definidas 03 (três) categorias basicas necessarias</p>  
+AUDIOS, FOTOS, VIDEOS
+  
+Plugins
 <p>por padrão o tema requer todos plugins necessarios para o seu bom funcionamento </p>
-<hr>
+  
 Widget
 Botão Pagina Home
 Utilizar o Widget HTML personalizado e inserir no conteudo.
