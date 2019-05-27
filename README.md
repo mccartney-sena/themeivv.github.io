@@ -5,17 +5,19 @@
 HOME`(slug 'home')`, NOSSOS LIDERES`(slug 'nossos-lideres')`, CONTATO`(slug 'contato)`, FOTOS`(slug 'fotos')`, VIDEOS`(slug 'videos')`, AUDIOS`(slug 'audios)`, estas paginas devem ser criadas como `modelo de pagina padrão`, as demais como `template uso geral`. A pagina  `HOME` deve ser ativa como pagina inicial do tema, var em `Cofiguração - Leitura`.
   
 ### 2º Categorias  
-Devem ser definidas 03 (três) categorias basicas necessarias
+Devem ser definidas 05 (cinco) categorias basicas necessarias
 `ÁUDIOS, FOTOS, VÍDEOS, MENSAGENS, MANÁ`
   
 ### Plugins
-por padrão o tema requer todos plugins necessarios para o seu bom funcionamento, instale todos e ative.
+por padrão o tema requer todos plugins necessarios para o seu bom funcionamento, instale todos e ative.  
+>Pode ocorrer mensagens de erros na instalação dos plugins, não se preocupe tudo vai funcionar perfeitamente.
   
 ### Widgets
->Em `Aparência Widgets` ficara toda a área de widgets do thema, abaixo esta relacionado toda área de widget e suas especificações.
+>Em `Aparência Widgets` ficara toda a área de widgets do tema. Abaixo esta relacionado todas as áreas de widgets e suas especificações.
 >Para utilizar os widgets aperte e arraste-os para sua devida área.  
+
 ##### Botão Pagina Home  
-Utilizar o Widget `HTML personalizado` e inserir no conteudo.
+Utilizar o Widget `HTML personalizado` e inserir no conteudo.  
 
  `<a class="btn btn-block btn-outline-light" href="link-da-pagina-desejada"> NO QUE CREMOS </a>`
 
