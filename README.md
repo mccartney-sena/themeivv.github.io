@@ -13,11 +13,11 @@ por padrão o tema requer todos plugins necessarios para o seu bom funcionamento
 >Pode ocorrer mensagens de erros na instalação dos plugins, não se preocupe tudo vai funcionar perfeitamente.
   
 ### Widgets
->Em `Aparência Widgets` ficara toda a área de widgets do tema. Abaixo esta relacionado todas as áreas de widgets e suas especificações.
->Para utilizar os widgets aperte e arraste-os para sua devida área.  
+>Em `Aparência - Widgets` ficara todos os widgets e áreas de widgets do tema. Abaixo esta relacionado todas as áreas de widgets e suas especificações.
+>Para utilizar os widgets aperte e arraste-os para suas devidas áreas.  
 
-##### Botão Pagina Home  
-Utilizar o Widget `HTML personalizado` e inserir no conteudo.  
+##### Área Botão Pagina Home  
+Utilizar o Widget `HTML personalizado`.  
 
  `<a class="btn btn-block btn-outline-light" href="link-da-pagina-desejada"> NO QUE CREMOS </a>`
 
@@ -25,38 +25,40 @@ Utilizar o Widget `HTML personalizado` e inserir no conteudo.
 >Para mudar o estilos(cor, tamanho, formato ...) do botões acesse o site do [Boostrap 4.3](https://getbootstrap.com/docs/4.3/components/buttons/)
    de preferência utilizar a classe `.btn-block`.  
 
-##### Imagem da Home  
+##### Área Imagem da Home  
 Utilizar o Widget `Imagem`.  
 >Para um melhor enquadramento da imagem na pagina inicial, as imagem devem ter dimensões de `256x411 ou 312x501` podendo ser editada essas dimensões após a imagem ser inserida, clicando no botão `Editar imagem` na seção `MOSTRAR CONFIGURAÇÕES - Tamanho` selecione `Tamanho personalizado`.  
 
-##### Lider 1 a 8  
+##### Área Lider 1 a 8  
 Utilizar o Widget `Imagem` e `Texto`, o widget `Imagem` deve esta sempre acima do widget `Texto`.  
 
->Dimensões da imagem 150x150, podendo ser editada essas dimensões após a imagem ser inserida, clicando no botão `Editar imagem` na seção `MOSTRAR CONFIGURAÇÕES - Tamanho` selecione `Tamanho personalizado`.
+>A Área Lider 1 e 2 são reservadas para o Presidente e o Vice-Presidente.   
 
-##### Social Icons  
+Para uma melhor visualização das imagens suas dimensões devem ser 150x150, podendo ser editada essas dimensões após a imagem ser inserida, clicando no botão `Editar imagem` na seção `MOSTRAR CONFIGURAÇÕES - Tamanho` selecione `Tamanho personalizado`.
+
+##### Área Social Icons  
 Utilizar o Wdget `Social Icons`, coloque os links das redes sociais nas suas respectivas áreas dentro do widget.  
 
 ### Posts  
 >Existem cinco (05) formatos de posts, cada um deles tem suas proprias características, sempre adicionar `imagem destacada` para a visualização da listagem dos posts fica bonito.
 
-##### Padrão  
+##### Formato Padrão  
 Utilizado na criação de Posts relacionado a notícias.    
 >É de boa prática adicionar um post de NOTÍCIAS OU MENSAGENS, e marcar a Categoria `NOTÍCIAS, MENSAGENS`.  
 
-##### Imagem  
+##### Formato Imagem  
 Utilizado na criação de galerias de imagens. O formato Imagem coloca-se no conteúdo um `shortcode` que é gerado quando criamos uma galeria no plugin `FooGallery`.  
 >É de boa prática adicionar um post de IMAGEM e marcar a Categoria `FOTOS`.  
 
-##### Áudio  
+##### Formato Áudio  
 Utilizado na criação de posts de áudio. Incorpora-se o link do SoundCloud ou adiciona um audio interno clicando no botão `Adicionar mídia`.  
 >É de boa prática adicionar um post de ÁUDIO e marcar a Categoria `ÁUDIOS`.  
 
-##### Vídeo  
+##### Formato Vídeo  
 Utilizado na criação de posts de vídeos. `Clicando em Adicionar mídia - Inserir a partir do URL - copia-se o link do video do YouTube/Vmeo - Inserir no post`.  
 >É de boa prática adicionar um post de VÍDEOS e marcar a Categoria `VÍDEOS`.  
 
-##### Citação  
+##### Formato Citação  
 Utilizado para posts curtos sem imagens, Ex: Maná, Devocional...  
 >É de boa prática adicionar um post de CITAÇÃO e marcar a Categoria `MANÁ, DEVOCIONAL...`.  
 
