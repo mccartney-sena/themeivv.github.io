@@ -37,7 +37,7 @@ Deixar o Titulo do widget `Imagem` em branco.
 ##### Área - (Lider 1 a 8)  
 Utilizar o Widget `Imagem` e `Texto`, o widget `Imagem` deve esta sempre acima do widget `Texto`.  
   
-Deixa o Titulo do widget `Imagem` em branco e no widget `Texto` preencher somente o Titulo.
+Deixar o Titulo do widget `Imagem` em branco e no widget `Texto` preencher somente o Titulo.
 
 >A Área Lider 1 e 2 são reservadas para o Presidente e o Vice-Presidente.   
 
